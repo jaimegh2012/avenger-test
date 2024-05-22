@@ -13,7 +13,6 @@
 * QuickSilver
 * Scarlet Witch
 * Spider Woman
-* Thor
 * Vision
 * Wasp
 * Antman
